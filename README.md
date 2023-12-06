@@ -25,3 +25,11 @@ npm start
 ```sh
 npm test
 ```
+
+#### Pending
+
+- [ ] rota comum 200
+- [ ] rota com memory leak
+- [ ] rota com erro nao tratado
+- [ ] rota com erro de promise nao tratado
+- [ ] rota que gera um kill
